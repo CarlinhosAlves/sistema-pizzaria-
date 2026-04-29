@@ -10,3 +10,12 @@ Sistema em Python para simular pedidos de uma pizzaria.
 ## ▶️ Como executar
 ```bash
 python sistema_pizzaria.py
+```
+
+## 📌 Objetivo
+
+Projeto criado para praticar programação e aplicar em um negócio real (minha pizzaria).
+
+## 👨‍💻 Autor
+
+Carlinhos
