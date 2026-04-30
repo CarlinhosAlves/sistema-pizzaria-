@@ -22,4 +22,4 @@ Carlinhos
 
 ## 📷 Demonstração
 
-![Sistema funcionando](print-sistema.png)
+![Sistema funcionando](print-sistema.png.png)
