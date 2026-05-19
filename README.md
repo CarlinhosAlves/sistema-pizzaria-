@@ -18,7 +18,7 @@ Projeto criado para praticar programação e aplicar em um negócio real (minha 
 
 ## 👨‍💻 Autor
 
-Carlinhos
+Carlos Alberto
 
 ## 📷 Demonstração
 
